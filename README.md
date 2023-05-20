@@ -14,7 +14,7 @@ This respository is a summarized version of 10 Days of Git & GitHub by Aabeneh Y
 
 ### Making Directory
 
-```sh
+```
 Now, let's create a directory inside the Desktop. Call the name of the directory, 10-days-of-code. You give it any name but I am in favor of this name. Use the _mkdir_ command to make a directory(folder)
 ```
 
