@@ -6,11 +6,11 @@ This respository is a summarized version of 10 Days of Git & GitHub by Aabeneh Y
 
 ### Current working directory
 
-Checking the working directory using the command _pwd_.
+> Checking the working directory using the command _pwd_.
 
 ### Navigating directory
 
-Now, let's go to the Desktop using _cd_ (change directory).
+> Now, let's go to the Desktop using _cd_ (change directory).
 
 ### Making Directory
 
