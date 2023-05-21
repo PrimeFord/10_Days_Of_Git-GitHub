@@ -136,3 +136,8 @@ git checkout branch-name # to checkout to a certain branch
 git checkout -b branch-name # to create a branch and checkout at the same time
 git merge branch-name # to merge a branch to the current branch
 ```
+## Contact
+If you want to contact me you can reach me at -wolabash@gmail.com -https://github.com/PrimeFord
+
+### Addtional Info
+This is not meant for production. It's for learning purpose only
